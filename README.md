@@ -13,16 +13,16 @@
 
 <br/>
 
-[![Version](https://img.shields.io/badge/الإصدار-v1.0.0--beta-orange?style=for-the-badge&logo=android&logoColor=white)](https://github.com/lamineheskoura/HunterToon/releases)
-[![Platform](https://img.shields.io/badge/النظام-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/lamineheskoura/HunterToon/releases)
-[![Downloads](https://img.shields.io/github/downloads/lamineheskoura/HunterToon/total?color=blueviolet&label=التحميلات&style=for-the-badge&logo=github)](https://github.com/lamineheskoura/HunterToon/releases)
-[![Stars](https://img.shields.io/github/stars/lamineheskoura/HunterToon?color=yellow&label=النجوم&style=for-the-badge&logo=star)](https://github.com/lamineheskoura/HunterToon/stargazers)
-[![License](https://img.shields.io/badge/الترخيص-Proprietary-red?style=for-the-badge)](https://github.com/lamineheskoura/HunterToon)
+[![Version](https://img.shields.io/badge/Version-v1.0.0--beta-orange?style=for-the-badge&logo=android&logoColor=white)](https://github.com/lamineheskoura/HunterToon/releases)
+[![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/lamineheskoura/HunterToon/releases)
+[![Downloads](https://img.shields.io/github/downloads/lamineheskoura/HunterToon/total?color=blueviolet&label=Downloads&style=for-the-badge&logo=github)](https://github.com/lamineheskoura/HunterToon/releases)
+[![Stars](https://img.shields.io/github/stars/lamineheskoura/HunterToon?color=yellow&label=Stars&style=for-the-badge&logo=github)](https://github.com/lamineheskoura/HunterToon/stargazers)
+[![License](https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge)](https://github.com/lamineheskoura/HunterToon)
 
 <br/>
 
 <a href="https://github.com/lamineheskoura/HunterToon/releases/latest">
-  <img src="https://img.shields.io/badge/⬇️%20%20تحميل%20التطبيق-APK%20مجاني-brightgreen?style=for-the-badge" alt="Download APK"/>
+  <img src="https://img.shields.io/badge/⬇️%20Download%20APK-Free-brightgreen?style=for-the-badge" alt="Download APK"/>
 </a>
 
 </div>
@@ -101,18 +101,24 @@
 - دعم كامل للبحث بـ **العربية والإنجليزية**
 - نظام فلاتر متطور للوصول لأدق التصانيف
 
+### 💬 نظام التعليقات المتقدم
+- تعليقات تفاعلية مع دعم الردود المتداخلة
+- تفاعل حقيقي مع مجتمع القراء العرب
+
 ### 🛡️ ركن الصحة والرفاهية الرقمية
 - **⏰ منبه الراحة** — تذكير ذكي بأخذ استراحة حسب وقتك
 - **📊 مراقب وقت الاستخدام** — واجهة تعرض إحصائياتك للقراءة المتوازنة
 
-### 🎨 تخصيص كامل
+### 🎨 تخصيص كامل بخمسة ثيمات حصرية
 تطبيق عربي 100% يدعم:
 
 | الثيم | الوصف |
 |-------|-------|
-| 🌑 **النمط الليلي** | مريح للعين في الظلام |
-| 💜 **نيون** | عصري وجذاب |
-| ☀️ **كلاسيكي فاتح** | واضح ونظيف |
+| 🌑 **الداكن (افتراضي)** | أنيق ومريح للعين في الظلام |
+| 🩵 **التيركوازي** | منعش ومبهج بألوان الفيروز |
+| 🔵 **النيلي** | عميق وراقي بدرجات الأزرق الداكن |
+| 🌌 **الأزرق السماوي** | هادئ وواسع كسماء الليل |
+| 🪻 **الوردي البنفسجي** | ناعم وجذاب بلمسة أنثوية فاخرة |
 
 <br/>
 
@@ -123,14 +129,14 @@
 <div align="center">
 <table>
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/lamineheskoura/HunterToon/main/Screenshots/Screenshot_1775068070.png" width="180" alt="الشاشة الرئيسية"/><br/><sub><b>الشاشة الرئيسية</b></sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/lamineheskoura/HunterToon/main/Screenshots/Screenshot_2.png" width="180" alt="مكتبتك"/><br/><sub><b>المكتبة الشخصية</b></sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/lamineheskoura/HunterToon/main/Screenshots/Screenshot_3.png" width="180" alt="القراءة"/><br/><sub><b>شاشة القراءة</b></sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/lamineheskoura/HunterToon/main/Screenshots/Screenshot_1775068070.png" width="180" alt="الشاشة الرئيسية"/><br/><sub><b>🏠 الشاشة الرئيسية</b></sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/lamineheskoura/HunterToon/main/Screenshots/Screenshot_2.png" width="180" alt="صفحة القراءة"/><br/><sub><b>📖 صفحة القراءة</b></sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/lamineheskoura/HunterToon/main/Screenshots/Screenshot_3.png" width="180" alt="الملف الشخصي"/><br/><sub><b>👤 الملف الشخصي</b></sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/lamineheskoura/HunterToon/main/Screenshots/Screenshot_4.png" width="180" alt="الملف الشخصي"/><br/><sub><b>الملف الشخصي</b></sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/lamineheskoura/HunterToon/main/Screenshots/Screenshot_5.png" width="180" alt="البحث"/><br/><sub><b>البحث المتقدم</b></sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/lamineheskoura/HunterToon/main/Screenshots/Screenshot_6.png" width="180" alt="الإعدادات"/><br/><sub><b>التخصيص والثيمات</b></sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/lamineheskoura/HunterToon/main/Screenshots/Screenshot_4.png" width="180" alt="المصادر الخارجية"/><br/><sub><b>🌍 المصادر الخارجية</b></sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/lamineheskoura/HunterToon/main/Screenshots/Screenshot_5.png" width="180" alt="الإعدادات"/><br/><sub><b>⚙️ الإعدادات</b></sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/lamineheskoura/HunterToon/main/Screenshots/Screenshot_6.png" width="180" alt="تفاصيل المانهوا"/><br/><sub><b>📋 تفاصيل المانهوا</b></sub></td>
   </tr>
 </table>
 </div>
@@ -141,7 +147,7 @@
 
 ## 🚀 كيفية التثبيت
 
-```bash
+```
 1. اذهب إلى صفحة الإصدارات  →  Releases
 2. حمّل أحدث ملف APK
 3. فعّل "تثبيت من مصادر غير معروفة" في إعدادات هاتفك
@@ -153,7 +159,7 @@
 <div align="center">
 <br/>
 
-[![تحميل APK](https://img.shields.io/badge/⬇️_تحميل_APK-الإصدار_الأحدث-brightgreen?style=for-the-badge)](https://github.com/lamineheskoura/HunterToon/releases/latest)
+[![Download APK](https://img.shields.io/badge/⬇️_Download_APK-Latest_Release-brightgreen?style=for-the-badge)](https://github.com/lamineheskoura/HunterToon/releases/latest)
 
 </div>
 
@@ -168,9 +174,9 @@
 - [x] 📚 المكتبة الذكية مع النسخ الاحتياطي
 - [x] 🔍 البحث الثنائي (AR/EN)
 - [x] 🛡️ منبه الراحة ومراقب الوقت
-- [x] 🎨 دعم الثيمات المتعددة
-- [ ] 💬 نظام تعليقات متقدم مع الإيموجي
-- [ ] 🌐 دعم مصادر جديدة
+- [x] 🎨 دعم الثيمات المتعددة (5 ثيمات)
+- [x] 💬 نظام تعليقات متقدم مع ردود متداخلة
+- [x] 🌐 دعم المصادر الخارجية
 - [ ] 🏆 لوحة متصدرين عالمية
 - [ ] 🔔 إشعارات الفصول الجديدة
 
@@ -189,8 +195,8 @@
 
 **أو تواصل معنا مباشرة:**
 
-[![GitHub Issues](https://img.shields.io/badge/Issues-أبلغ%20عن%20مشكلة-red?style=for-the-badge&logo=github)](https://github.com/lamineheskoura/HunterToon/issues)
-[![GitHub Discussions](https://img.shields.io/badge/Discussions-اقتراحاتك-blue?style=for-the-badge&logo=github)](https://github.com/lamineheskoura/HunterToon/discussions)
+[![GitHub Issues](https://img.shields.io/badge/Issues-Report%20a%20Bug-red?style=for-the-badge&logo=github)](https://github.com/lamineheskoura/HunterToon/issues)
+[![GitHub Discussions](https://img.shields.io/badge/Discussions-Share%20Ideas-blue?style=for-the-badge&logo=github)](https://github.com/lamineheskoura/HunterToon/discussions)
 
 <br/>
 
@@ -198,7 +204,7 @@
 
 ## 📜 الترخيص
 
-جميع الحقوق محفوظة لفريق **HunterToon** © 2025  
+جميع الحقوق محفوظة لفريق **HunterToon** © 2026  
 هذا التطبيق ملكية خاصة **(Proprietary)** — لا يجوز إعادة نشره أو تعديله دون إذن رسمي من المالك.
 
 ---
