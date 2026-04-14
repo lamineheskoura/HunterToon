@@ -15,7 +15,7 @@
 
 [![Version](https://img.shields.io/badge/Version-v1.0.0--beta-orange?style=for-the-badge&logo=android&logoColor=white)](https://github.com/lamineheskoura/HunterToon/releases)
 [![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/lamineheskoura/HunterToon/releases)
-[![Downloads](https://img.shields.io/github/downloads/lamineheskoura/HunterToon/total?color=blueviolet&label=Downloads&style=for-the-badge&logo=github)](https://github.com/lamineheskoura/HunterToon/releases)
+[![Downloads](https://img.shields.io/github/downloads/lamineheskoura/HunterToon/total?color=blueviolet&label=Downloads&style=for-the-badge&logo=github)](https://github.com/lamineheskoura/HunterToon/releases/download/1.0.0/huntertoon-1.0.0.apk)
 [![Stars](https://img.shields.io/github/stars/lamineheskoura/HunterToon?color=yellow&label=Stars&style=for-the-badge&logo=github)](https://github.com/lamineheskoura/HunterToon/stargazers)
 [![License](https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge)](https://github.com/lamineheskoura/HunterToon)
 
