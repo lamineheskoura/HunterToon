@@ -1,204 +1,220 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/lamineheskoura/HunterToon/main/Screenshots/logo.png" alt="HunterToon Logo" width="140"/>
+<img src="https://raw.githubusercontent.com/lamineheskoura/HunterToon/main/Screenshots/logo.png" alt="HunterToon Logo" width="150"/>
 
 <br/>
 
 # ⚡ HunterToon — هانتر تون
 
-<p align="center">
-  <b>بوابتك العربية نحو عالم المانهوا</b><br/>
-  <i>حيث لا تكتفي بالقراءة.. بل تعيش المغامرة!</i>
-</p>
+**بوابتك العربية الشاملة إلى عالم المانهوا**
+
+*اقرأ · تابع تقدمك · ارتقِ بين الصيادين*
 
 <br/>
 
-[![Version](https://img.shields.io/badge/Version-v1.0.0--beta-orange?style=for-the-badge&logo=android&logoColor=white)](https://github.com/lamineheskoura/HunterToon/releases)
-[![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/lamineheskoura/HunterToon/releases)
-[![Downloads](https://img.shields.io/github/downloads/lamineheskoura/HunterToon/total?color=blueviolet&label=Downloads&style=for-the-badge&logo=github)](https://github.com/lamineheskoura/HunterToon/releases/download/1.0.0/huntertoon-1.0.0.apk)
-[![Stars](https://img.shields.io/github/stars/lamineheskoura/HunterToon?color=yellow&label=Stars&style=for-the-badge&logo=github)](https://github.com/lamineheskoura/HunterToon/stargazers)
-[![License](https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge)](https://github.com/lamineheskoura/HunterToon)
+[![Version](https://img.shields.io/badge/الإصدار-v1.1.0_مستقر-brightgreen?style=for-the-badge&logo=android&logoColor=white)](https://github.com/lamineheskoura/HunterToon/releases)
+[![Platform](https://img.shields.io/badge/النظام-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/lamineheskoura/HunterToon/releases)
+![Downloads](https://img.shields.io/github/downloads/lamineheskoura/HunterToon/total?color=blueviolet&label=التحميلات&style=for-the-badge&logo=github)
+[![Stars](https://img.shields.io/github/stars/lamineheskoura/HunterToon?color=yellow&label=النجوم&style=for-the-badge&logo=github)](https://github.com/lamineheskoura/HunterToon/stargazers)
+[![License](https://img.shields.io/badge/الترخيص-Proprietary-red?style=for-the-badge)](https://github.com/lamineheskoura/HunterToon)
 
 <br/>
 
-<a href="https://github.com/lamineheskoura/HunterToon/releases/download/1.0.0/huntertoon-1.0.0.apk">
-  <img src="https://img.shields.io/badge/⬇️%20Download%20APK-Free-brightgreen?style=for-the-badge" alt="Download APK"/>
+<a href="https://github.com/lamineheskoura/HunterToon/releases/latest">
+  <img src="https://img.shields.io/badge/⬇️_تحميل_التطبيق_الآن-FF6B35?style=for-the-badge&logoColor=white" alt="تحميل التطبيق"/>
 </a>
 
 </div>
 
 ---
 
-<br/>
+## 🎉 الإصدار المستقر الأول — v1.1.0
+
+> بعد فترة الاختبار (النسخة التجريبية 1.0.0)، وصلنا رسمياً إلى **أول إصدار مستقر** من HunterToon.
+>
+> استمعنا إلى كل ملاحظاتكم وعملنا على حل المشاكل الجوهرية وإضافة ميزات طلبها المجتمع.
+> حان الوقت ليكون كل شيء في تطبيق واحد.
+
+---
+
+### 🛠️ المشاكل التي تم حلها
+
+| المشكلة | الحل |
+|---------|------|
+| 🖼️ الصور المضغوطة على الأجهزة المتوسطة والضعيفة | تم إصلاح العرض بالكامل، الفصول تظهر بجودتها الأصلية |
+| ⬛ الشاشة السوداء المفاجئة | تم القضاء عليها نهائياً |
+| 🚪 الطرد التلقائي بعد مدة من الاستخدام | استقرار كامل، اقرأ لساعات بدون انقطاع |
+| 🐢 بطء التصفح والتنقل | تحسين ملحوظ في السرعة والأداء العام |
+| 🔐 صعوبات إنشاء الحساب وتسجيل الدخول | تسجيل دخول فوري عبر Google بضغطة واحدة |
+| 📥 مشاكل التحميل وتجاوز حماية المواقع | تحسين شامل لعمليات التحميل |
+
+---
+
+### ✨ الميزات الجديدة في v1.1.0
+
+#### 🔑 تسجيل الدخول والحساب
+- **تسجيل الدخول الفوري** بضغطة واحدة عبر حساب **Google**
+- إمكانية **ربط حسابك القديم** بحساب Google دون فقدان أي بيانات
+- إضافة **صورتك الشخصية** من هاتفك عبر مزامنة صورة حساب Google (تُفعَّل من إعدادات الملف الشخصي)
+
+#### 📚 المكتبة والبحث
+- إضافة **3 مصادر جديدة** تحتوي على مكتبات ضخمة
+- تحسين شامل لاستقرار وأداء **المصادر السابقة**
+- **البحث الخارق**: ابحث عن أي مانهوا في **جميع المصادر دفعة واحدة** — لا حاجة للتنقل بين التطبيقات والمواقع
+- **زر تحديد الفصول المقروءة** لمتابعة أعمالك بدقة
+
+#### 🏆 نظام الصيادين والمجتمع
+- **سجل النشاط**: تابع عدد المانهوا التي قرأتها وتقدمك الشخصي
+- **نظام رفع المستوى**: كل فصل تقرأه — سواء من مصادرنا أو الخارجية — يمنحك نقاطاً ترفع مستواك
+- **قائمة أقوى الصيادين الأسبوعية**: تعرض أكثر المستخدمين قراءةً ونشاطاً خلال الأسبوع
+- **شارات التميز**: تظهر بجانب اسمك في التعليقات والتفاعلات حسب رتبتك ومستواك
+
+#### 🛒 المتجر الداخلي
+- تغيير **لون اسمك**
+- تغيير **اسم حسابك**
+- شراء **بطاقة VIP** للحصول على تجربة مميزة
+
+---
 
 ## 📖 جدول المحتويات
 
 | # | القسم |
 |---|-------|
-| 1 | [✨ لماذا HunterToon؟](#-لماذا-huntertoon) |
-| 2 | [⚔️ نظام ارتقاء الصياد](#️-نظام-ارتقاء-الصياد) |
-| 3 | [💎 المميزات الكاملة](#-المميزات-الكاملة) |
-| 4 | [📸 لقطات التطبيق](#-لقطات-التطبيق) |
-| 5 | [🚀 كيفية التثبيت](#-كيفية-التثبيت) |
-| 6 | [🗺️ خارطة الطريق](#️-خارطة-الطريق) |
-| 7 | [📣 التواصل والدعم](#-التواصل-والدعم) |
-
-<br/>
+| 1 | [لماذا HunterToon؟](#-لماذا-huntertoon) |
+| 2 | [المميزات الكاملة](#-المميزات-الكاملة) |
+| 3 | [لقطات من التطبيق](#-لقطات-من-التطبيق) |
+| 4 | [كيفية التثبيت](#-كيفية-التثبيت) |
+| 5 | [نظام ارتقاء الصياد](#️-نظام-ارتقاء-الصياد) |
+| 6 | [خارطة الطريق](#️-خارطة-الطريق) |
+| 7 | [التواصل والدعم](#-التواصل-والدعم) |
 
 ---
 
 ## ✨ لماذا HunterToon؟
 
-> **HunterToon** ليس مجرد قارئ مانهوا — إنه نظام متكامل صُمِّم خصيصاً للقارئ العربي الذي يبحث عن **الفخامة، السرعة، والتفاعل الحقيقي**.
+**HunterToon** ليس مجرد قارئ مانهوا — إنه منصة متكاملة صُمِّمت للقارئ العربي الذي يريد **مكتبة واسعة، تجربة سلسة، ومجتمعاً حقيقياً** في مكان واحد.
 
-نحن نؤمن أن تجربة القراءة يجب أن تكون ممتعة تماماً كالمحتوى نفسه، لذا أضفنا طبقة RPG كاملة فوق كل شيء — حيث أنت لا تقرأ فقط، **أنت ترتقي**.
-
-<br/>
-
----
-
-## ⚔️ نظام ارتقاء الصياد
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════╗
-║     🗡️  أنت لست مجرد قارئ...           ║
-║         أنت بطل في عالمنا!  🏆          ║
-╚══════════════════════════════════════════╝
-```
-
-</div>
-
-| العنصر | الوصف |
-|--------|-------|
-| 🔮 **نقاط الخبرة (XP)** | احصل على XP عند قراءة الفصول أو التفاعل بالتعليقات |
-| ⬆️ **الارتقاء بالمستوى** | كلما زاد نشاطك، فتحت ميزات حصرية جديدة |
-| 🪙 **العملات الذهبية** | اجمع الذهب واستخدمه في المتجر لفتح فصول حصرية |
-| 🏆 **لوحة المتصدرين** | تنافس مع أصدقائك واثبت أنك الصياد الأقوى |
-
-<br/>
+- 📖 مكتبة داخلية + دعم مصادر خارجية متعددة في تطبيق واحد
+- ⚡ أداء سريع واستقرار عالٍ حتى على الأجهزة المتوسطة
+- 🎮 نظام مستويات ومنافسة يجعل القراءة تجربة لا تُنسى
+- 🌐 واجهة عربية كاملة مع دعم البحث بالعربية والإنجليزية
 
 ---
 
 ## 💎 المميزات الكاملة
 
-<br/>
+### 🏛️ المكتبة وإدارة المحتوى
+- سيرفر HunterToon الداخلي بمحتوى حصري وجودة عالية
+- دعم مصادر خارجية متعددة مع تحسينات مستمرة
+- وضع القراءة **أوفلاين** — حمّل الفصول واقرأها بدون إنترنت
+- زر تحديد الفصول المقروءة لمتابعة تقدمك بدقة
 
-### 🏛️ سيرفر HunterToon الحصري
-منصة داخلية تضم أعمال فريقنا وترجمات المبدعين العرب، بـ **جودة خارقة** وسرعة تحميل لا تُضاهى — كل شيء في مكان واحد.
+### 🔍 البحث والاكتشاف
+- **البحث الخارق**: نتائج من جميع المصادر في آن واحد
+- فلاتر متقدمة للوصول إلى التصانيف المطلوبة بسرعة
+- دعم البحث بالعربية والإنجليزية
 
-### 🌍 دعم المصادر الخارجية
-لا مزيد من التنقل بين المواقع! نوفر لك الوصول لأكبر المكتبات العربية مع إمكانية:
-- ✅ القراءة أونلاين بدون تأخير
-- ✅ التحميل للمشاهدة **بدون إنترنت** (Offline Mode)
+### 👤 الحساب والملف الشخصي
+- تسجيل دخول فوري عبر **Google** أو بالطريقة التقليدية
+- ربط الحساب القديم بـ Google بخطوة واحدة
+- صورة شخصية مخصصة من هاتفك
+- متجر داخلي: لون الاسم · تغيير الاسم · بطاقة VIP
 
-### 📚 المكتبة الذكية
-- **تصنيفات مخصصة** — نظّم مانهواتك كما تشاء
-- **نسخ احتياطي (Backup)** — احتفظ بمكتبتك وشاركها بضغطة واحدة
+### ⚔️ نظام المستويات والمجتمع
+- نقاط خبرة (XP) مقابل كل فصل تقرأه
+- سجل نشاط شخصي لتتبع إنجازاتك
+- قائمة أقوى الصيادين يتجدد أسبوعياً
+- شارات رتب تظهر في التعليقات والتفاعلات
 
-### 🔍 بحث متقدم ثنائي اللغة
-- دعم كامل للبحث بـ **العربية والإنجليزية**
-- نظام فلاتر متطور للوصول لأدق التصانيف
-
-### 💬 نظام التعليقات المتقدم
-- تعليقات تفاعلية مع دعم الردود المتداخلة
+### 💬 التفاعل والتعليقات
+- نظام تعليقات مع دعم الردود المتداخلة
 - تفاعل حقيقي مع مجتمع القراء العرب
 
-### 🛡️ ركن الصحة والرفاهية الرقمية
-- **⏰ منبه الراحة** — تذكير ذكي بأخذ استراحة حسب وقتك
-- **📊 مراقب وقت الاستخدام** — واجهة تعرض إحصائياتك للقراءة المتوازنة
-
-### 🎨 تخصيص كامل بخمسة ثيمات حصرية
-تطبيق عربي 100% يدعم:
-
-| الثيم | الوصف |
-|-------|-------|
-| 🌑 **الداكن (افتراضي)** | أنيق ومريح للعين في الظلام |
-| 🩵 **التيركوازي** | منعش ومبهج بألوان الفيروز |
-| 🔵 **النيلي** | عميق وراقي بدرجات الأزرق الداكن |
-| 🌌 **الأزرق السماوي** | هادئ وواسع كسماء الليل |
-| 🪻 **الوردي البنفسجي** | ناعم وجذاب بلمسة أنثوية فاخرة |
-
-<br/>
+### 🎨 التخصيص والواجهة
+- خمسة ثيمات مريحة للعين (داكن، تيركوازي، نيلي، سماوي، وردي بنفسجي)
+- واجهة عربية كاملة وتصميم مُحسَّن
 
 ---
 
-## 📸 لقطات التطبيق
+## 📸 لقطات من التطبيق
 
 <div align="center">
-<table>
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/lamineheskoura/HunterToon/main/Screenshots/Screenshot_1775068070.png" width="180" alt="الشاشة الرئيسية"/><br/><sub><b>🏠 الشاشة الرئيسية</b></sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/lamineheskoura/HunterToon/main/Screenshots/Screenshot_2.png" width="180" alt="صفحة القراءة"/><br/><sub><b>📖 صفحة القراءة</b></sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/lamineheskoura/HunterToon/main/Screenshots/Screenshot_3.png" width="180" alt="الملف الشخصي"/><br/><sub><b>👤 الملف الشخصي</b></sub></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/lamineheskoura/HunterToon/main/Screenshots/Screenshot_4.png" width="180" alt="المصادر الخارجية"/><br/><sub><b>🌍 المصادر الخارجية</b></sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/lamineheskoura/HunterToon/main/Screenshots/Screenshot_5.png" width="180" alt="الإعدادات"/><br/><sub><b>⚙️ الإعدادات</b></sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/lamineheskoura/HunterToon/main/Screenshots/Screenshot_6.png" width="180" alt="تفاصيل المانهوا"/><br/><sub><b>📋 تفاصيل المانهوا</b></sub></td>
-  </tr>
-</table>
-</div>
 
-<br/>
+| الشاشة الرئيسية | صفحة القراءة | الملف الشخصي |
+|:-:|:-:|:-:|
+| <img src="https://raw.githubusercontent.com/lamineheskoura/HunterToon/main/Screenshots/Screenshot_1775068070.png" width="180"/> | <img src="https://raw.githubusercontent.com/lamineheskoura/HunterToon/main/Screenshots/Screenshot_2.png" width="180"/> | <img src="https://raw.githubusercontent.com/lamineheskoura/HunterToon/main/Screenshots/Screenshot_3.png" width="180"/> |
+
+| المصادر الخارجية | الإعدادات | تفاصيل المانهوا |
+|:-:|:-:|:-:|
+| <img src="https://raw.githubusercontent.com/lamineheskoura/HunterToon/main/Screenshots/Screenshot_4.png" width="180"/> | <img src="https://raw.githubusercontent.com/lamineheskoura/HunterToon/main/Screenshots/Screenshot_5.png" width="180"/> | <img src="https://raw.githubusercontent.com/lamineheskoura/HunterToon/main/Screenshots/Screenshot_6.png" width="180"/> |
+
+</div>
 
 ---
 
 ## 🚀 كيفية التثبيت
 
 ```
-1. اذهب إلى صفحة الإصدارات  →  Releases
-2. حمّل أحدث ملف APK
-3. فعّل "تثبيت من مصادر غير معروفة" في إعدادات هاتفك
-4. ثبّت التطبيق وابدأ مغامرتك! ⚡
+1. اذهب إلى صفحة Releases
+2. حمّل أحدث ملف APK (الإصدار 1.1.0)
+3. فعّل "التثبيت من مصادر غير معروفة" في إعدادات هاتفك
+4. ثبّت التطبيق وابدأ القراءة
 ```
 
-> **متطلبات النظام:** Android 6.0+ | مساحة خالية: 50MB+
+> **متطلبات النظام:** Android 6.0 فما فوق · مساحة خالية: ~50MB
 
 <div align="center">
-<br/>
 
-[![Download APK](https://img.shields.io/badge/⬇️_Download_APK-Latest_Release-brightgreen?style=for-the-badge)](https://github.com/lamineheskoura/HunterToon/releases/latest)
+<a href="https://github.com/lamineheskoura/HunterToon/releases/latest">
+  <img src="https://img.shields.io/badge/⬇️_تحميل_الإصدار_1.1.0-FF6B35?style=for-the-badge" alt="تحميل"/>
+</a>
 
 </div>
 
-<br/>
+---
+
+## ⚔️ نظام ارتقاء الصياد
+
+في HunterToon، القراءة ليست مجرد تصفح — بل هي رحلة للارتقاء:
+
+| العنصر | التفاصيل |
+|--------|----------|
+| 🔮 **نقاط الخبرة (XP)** | تكسبها مقابل كل فصل تقرأه، من أي مصدر |
+| ⬆️ **المستوى** | يرتفع مع نشاطك ويفتح لك مميزات حصرية |
+| 🏆 **قائمة الصيادين الأسبوعية** | تنافس على المراتب الأولى كل أسبوع |
+| 🏅 **شارات الرتب** | تظهر بجانب اسمك وتعكس إنجازاتك |
+| 🛒 **المتجر** | خصّص هويتك أو احصل على بطاقة VIP |
 
 ---
 
 ## 🗺️ خارطة الطريق
 
-- [x] 🏛️ سيرفر HunterToon الخاص
-- [x] ⚔️ نظام المستويات والـ XP
-- [x] 📚 المكتبة الذكية مع النسخ الاحتياطي
-- [x] 🔍 البحث الثنائي (AR/EN)
-- [x] 🛡️ منبه الراحة ومراقب الوقت
-- [x] 🎨 دعم الثيمات المتعددة (5 ثيمات)
-- [x] 💬 نظام تعليقات متقدم مع ردود متداخلة
-- [x] 🌐 دعم المصادر الخارجية
-- [ ] 🏆 لوحة متصدرين عالمية
-- [ ] 🔔 إشعارات الفصول الجديدة
-
-<br/>
+- [x] الإصدار المستقر الأول 1.1.0
+- [x] حل المشاكل الرئيسية للنسخة التجريبية
+- [x] تسجيل الدخول عبر Google
+- [x] البحث الخارق في كل المصادر
+- [x] 3 مصادر جديدة + تحسين المصادر السابقة
+- [x] نظام المستويات والمتجر والشارات
+- [x] قائمة أقوى الصيادين الأسبوعية
+- [ ] إشعارات الفصول الجديدة
+- [ ] ميزات مجتمعية متقدمة
+- [ ] تحسينات إضافية في الأداء والواجهة
 
 ---
 
 ## 📣 التواصل والدعم
 
-واجهت مشكلة أو لديك اقتراح؟ صوتك يصنع التطبيق!
+واجهت مشكلة أو لديك اقتراح؟ نحن نقرأ كل ملاحظة بعناية ونعمل باستمرار على التحسين.
 
 **من داخل التطبيق:**
 ```
-⚙️ الإعدادات  →  إرسال ملاحظة أو إبلاغ
+⚙️ الإعدادات ← إرسال ملاحظة أو إبلاغ
 ```
 
-**أو تواصل معنا مباشرة:**
+**على GitHub:**
 
-[![GitHub Issues](https://img.shields.io/badge/Issues-Report%20a%20Bug-red?style=for-the-badge&logo=github)](https://github.com/lamineheskoura/HunterToon/issues)
-[![GitHub Discussions](https://img.shields.io/badge/Discussions-Share%20Ideas-blue?style=for-the-badge&logo=github)](https://github.com/lamineheskoura/HunterToon/discussions)
-
-<br/>
+[![GitHub Issues](https://img.shields.io/badge/Issues-الإبلاغ_عن_مشكلة-red?style=for-the-badge&logo=github)](https://github.com/lamineheskoura/HunterToon/issues)
+[![GitHub Discussions](https://img.shields.io/badge/Discussions-مشاركة_الاقتراحات-blue?style=for-the-badge&logo=github)](https://github.com/lamineheskoura/HunterToon/discussions)
 
 ---
 
@@ -211,12 +227,8 @@
 
 <div align="center">
 
-<br/>
+**صُنع بحب لعشاق المانهوا العرب** ❤️
 
-**صُنع بكل ❤️ للقارئ العربي**
-
-<br/>
-
-*⭐ إذا أعجبك المشروع، لا تنسَ أن تضع نجمة على الريبو — فهي تدعمنا كثيراً!*
+*إذا أعجبك المشروع، لا تنسَ وضع نجمة ⭐ على الريبو — فهي تدعمنا كثيراً!*
 
 </div>
