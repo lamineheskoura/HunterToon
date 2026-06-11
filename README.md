@@ -21,7 +21,7 @@
 
 <br/>
 
-<a href="https://github.com/lamineheskoura/HunterToon/releases/latest">
+<a href="https://github.com/lamineheskoura/HunterToon/releases/download/v1.3.0/huntertoon-1.3.0.apk">
   <img src="https://img.shields.io/badge/⬇️_تحميل_التطبيق_الآن-FF6B35?style=for-the-badge&logoColor=white" alt="تحميل التطبيق"/>
 </a>
 
