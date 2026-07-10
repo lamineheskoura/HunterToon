@@ -144,10 +144,7 @@
 | | | |
 |:---:|:---:|:---:|
 | ![Screenshot 1](https://raw.githubusercontent.com/lamineheskoura/HunterToon/main/screenshots/1.jpg) | ![Screenshot 2](https://raw.githubusercontent.com/lamineheskoura/HunterToon/main/screenshots/2.jpg) | ![Screenshot 3](https://raw.githubusercontent.com/lamineheskoura/HunterToon/main/screenshots/3.jpg) |
-| **الشاشة الرئيسية** | **البحث الخارق** | **المكتبة الشخصية** |
-| | | |
 | ![Screenshot 4](https://raw.githubusercontent.com/lamineheskoura/HunterToon/main/screenshots/4.jpg) | ![Screenshot 5](https://raw.githubusercontent.com/lamineheskoura/HunterToon/main/screenshots/5.jpg) | |
-| **نظام المستويات** | **قائمة الصيادين** | |
 
 </div>
 
@@ -196,7 +193,7 @@
 - [x] البحث الخارق في كل المصادر
 - [x] 3 مصادر جديدة + تحسين المصادر السابقة
 - [x] نظام المستويات والمتجر والشارات
-- [x] قائمة أقوى الصيادين ��لأسبوعية
+- [x] قائمة أقوى الصيادين الأسبوعية
 - [ ] إشعارات الفصول الجديدة
 - [ ] ميزات مجتمعية متقدمة
 - [ ] تحسينات إضافية في الأداء والواجهة
