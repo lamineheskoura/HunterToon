@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/lamineheskoura/HunterToon/main/Screenshots/logo.png" alt="HunterToon Logo" width="150"/>
+<img src="https://raw.githubusercontent.com/lamineheskoura/HunterToon/main/screenshots/logo.png" alt="HunterToon Logo" width="150"/>
 
 <br/>
 
@@ -14,7 +14,7 @@
 
 [![Version](https://img.shields.io/badge/الإصدار-v1.1.0_مستقر-brightgreen?style=for-the-badge&logo=android&logoColor=white)](https://github.com/lamineheskoura/HunterToon/releases)
 [![Platform](https://img.shields.io/badge/النظام-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/lamineheskoura/HunterToon/releases)
-[![Downloads v1.3.0](https://img.shields.io/github/downloads/lamineheskoura/HunterToon/v1.4.0/total?style=for-the-badge&logo=github&color=blueviolet)](https://github.com/lamineheskoura/HunterToon/releases/tag/v1.4.0)
+[![Downloads v1.3.0](https://img.shields.io/github/downloads/lamineheskoura/HunterToon/v1.4.0/total?style=for-the-badge&logo=github&color=blueviolet)](https://github.com/lamineheskoura/HunterToon/releases)
 [![Downloads](https://img.shields.io/github/downloads/lamineheskoura/HunterToon/total?style=for-the-badge&logo=github&color=blueviolet)](https://github.com/lamineheskoura/HunterToon/releases)
 [![Stars](https://img.shields.io/github/stars/lamineheskoura/HunterToon?color=yellow&label=النجوم&style=for-the-badge&logo=github)](https://github.com/lamineheskoura/HunterToon/stargazers)
 [![License](https://img.shields.io/badge/الترخيص-Proprietary-red?style=for-the-badge)](https://github.com/lamineheskoura/HunterToon)
@@ -93,7 +93,7 @@
 
 ## ✨ لماذا HunterToon؟
 
-**HunterToon** ليس مجرد قارئ مانهوا — إنه منصة متكاملة صُمِّمت للقارئ العربي الذي يريد **مكتبة واسعة، تجربة سلسة، ومجتمعاً حقيقياً** في مكان واحد.
+**HunterToon** ليس مجرد قارئ مانهوا — إنه منصة متكاملة صُمِّمت للقارئ العربي الذي يريد **مكتبة واسعة، تجربة سلسة، ومجتمع حي**.
 
 - 📖 مكتبة داخلية + دعم مصادر خارجية متعددة في تطبيق واحد
 - ⚡ أداء سريع واستقرار عالٍ حتى على الأجهزة المتوسطة
@@ -141,13 +141,15 @@
 
 <div align="center">
 
-| الشاشة الرئيسية | صفحة القراءة | الملف الشخصي |
-|:-:|:-:|:-:|
-| <img src="https://raw.githubusercontent.com/lamineheskoura/HunterToon/main/Screenshots/Screenshot_1775068070.png" width="180"/> | <img src="https://raw.githubusercontent.com/lamineheskoura/HunterToon/main/Screenshots/Screenshot_2.png" width="180"/> | <img src="https://raw.githubusercontent.com/lamineheskoura/HunterToon/main/Screenshots/Screenshot_3.png" width="180"/> |
+![Screenshot 1](https://raw.githubusercontent.com/lamineheskoura/HunterToon/main/screenshots/1.jpg)
 
-| المصادر الخارجية | الإعدادات | تفاصيل المانهوا |
-|:-:|:-:|:-:|
-| <img src="https://raw.githubusercontent.com/lamineheskoura/HunterToon/main/Screenshots/Screenshot_4.png" width="180"/> | <img src="https://raw.githubusercontent.com/lamineheskoura/HunterToon/main/Screenshots/Screenshot_5.png" width="180"/> | <img src="https://raw.githubusercontent.com/lamineheskoura/HunterToon/main/Screenshots/Screenshot_6.png" width="180"/> |
+![Screenshot 2](https://raw.githubusercontent.com/lamineheskoura/HunterToon/main/screenshots/2.jpg)
+
+![Screenshot 3](https://raw.githubusercontent.com/lamineheskoura/HunterToon/main/screenshots/3.jpg)
+
+![Screenshot 4](https://raw.githubusercontent.com/lamineheskoura/HunterToon/main/screenshots/4.jpg)
+
+![Screenshot 5](https://raw.githubusercontent.com/lamineheskoura/HunterToon/main/screenshots/5.jpg)
 
 </div>
 
