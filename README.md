@@ -14,7 +14,7 @@
 
 [![Version](https://img.shields.io/badge/الإصدار-v1.1.0_مستقر-brightgreen?style=for-the-badge&logo=android&logoColor=white)](https://github.com/lamineheskoura/HunterToon/releases)
 [![Platform](https://img.shields.io/badge/النظام-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/lamineheskoura/HunterToon/releases)
-[![Downloads v1.3.0](https://img.shields.io/github/downloads/lamineheskoura/HunterToon/v1.4.0/total?style=for-the-badge&logo=github&color=blueviolet)](https://github.com/lamineheskoura/HunterToon/releases)
+[![Downloads v1.3.0](https://img.shields.io/github/downloads/lamineheskoura/HunterToon/v1.4.0/total?style=for-the-badge&logo=github&color=blueviolet)](https://github.com/lamineheskoura/HunterToon/[...]
 [![Downloads](https://img.shields.io/github/downloads/lamineheskoura/HunterToon/total?style=for-the-badge&logo=github&color=blueviolet)](https://github.com/lamineheskoura/HunterToon/releases)
 [![Stars](https://img.shields.io/github/stars/lamineheskoura/HunterToon?color=yellow&label=النجوم&style=for-the-badge&logo=github)](https://github.com/lamineheskoura/HunterToon/stargazers)
 [![License](https://img.shields.io/badge/الترخيص-Proprietary-red?style=for-the-badge)](https://github.com/lamineheskoura/HunterToon)
@@ -93,7 +93,7 @@
 
 ## ✨ لماذا HunterToon؟
 
-**HunterToon** ليس مجرد قارئ مانهوا — إنه منصة متكاملة صُمِّمت للقارئ العربي الذي يريد **مكتبة واسعة، تجربة سلسة، ومجتمع حي**.
+**HunterToon** ليس مجرد قارئ مانهوا — إنه منصة متكاملة صُمِّمت للقارئ العربي الذي يريد **مكتبة واسعة، تجربة سلسة، ومجتمع حقيقي**.
 
 - 📖 مكتبة داخلية + دعم مصادر خارجية متعددة في تطبيق واحد
 - ⚡ أداء سريع واستقرار عالٍ حتى على الأجهزة المتوسطة
@@ -141,15 +141,13 @@
 
 <div align="center">
 
-![Screenshot 1](https://raw.githubusercontent.com/lamineheskoura/HunterToon/main/screenshots/1.jpg)
-
-![Screenshot 2](https://raw.githubusercontent.com/lamineheskoura/HunterToon/main/screenshots/2.jpg)
-
-![Screenshot 3](https://raw.githubusercontent.com/lamineheskoura/HunterToon/main/screenshots/3.jpg)
-
-![Screenshot 4](https://raw.githubusercontent.com/lamineheskoura/HunterToon/main/screenshots/4.jpg)
-
-![Screenshot 5](https://raw.githubusercontent.com/lamineheskoura/HunterToon/main/screenshots/5.jpg)
+| | | |
+|:---:|:---:|:---:|
+| ![Screenshot 1](https://raw.githubusercontent.com/lamineheskoura/HunterToon/main/screenshots/1.jpg) | ![Screenshot 2](https://raw.githubusercontent.com/lamineheskoura/HunterToon/main/screenshots/2.jpg) | ![Screenshot 3](https://raw.githubusercontent.com/lamineheskoura/HunterToon/main/screenshots/3.jpg) |
+| **الشاشة الرئيسية** | **البحث الخارق** | **المكتبة الشخصية** |
+| | | |
+| ![Screenshot 4](https://raw.githubusercontent.com/lamineheskoura/HunterToon/main/screenshots/4.jpg) | ![Screenshot 5](https://raw.githubusercontent.com/lamineheskoura/HunterToon/main/screenshots/5.jpg) | |
+| **نظام المستويات** | **قائمة الصيادين** | |
 
 </div>
 
@@ -198,7 +196,7 @@
 - [x] البحث الخارق في كل المصادر
 - [x] 3 مصادر جديدة + تحسين المصادر السابقة
 - [x] نظام المستويات والمتجر والشارات
-- [x] قائمة أقوى الصيادين الأسبوعية
+- [x] قائمة أقوى الصيادين ��لأسبوعية
 - [ ] إشعارات الفصول الجديدة
 - [ ] ميزات مجتمعية متقدمة
 - [ ] تحسينات إضافية في الأداء والواجهة
