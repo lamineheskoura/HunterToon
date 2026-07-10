@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/lamineheskoura/HunterToon/main/screenshots/logo.png" alt="HunterToon Logo" width="150"/>
+<img src="https://raw.githubusercontent.com/lamineheskoura/HunterToon/main/screenshots/fulllogo.png" alt="HunterToon Logo" width="250"/>
 
 <br/>
 
@@ -14,7 +14,6 @@
 
 [![Version](https://img.shields.io/badge/الإصدار-v1.1.0_مستقر-brightgreen?style=for-the-badge&logo=android&logoColor=white)](https://github.com/lamineheskoura/HunterToon/releases)
 [![Platform](https://img.shields.io/badge/النظام-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/lamineheskoura/HunterToon/releases)
-[![Downloads v1.3.0](https://img.shields.io/github/downloads/lamineheskoura/HunterToon/v1.4.0/total?style=for-the-badge&logo=github&color=blueviolet)](https://github.com/lamineheskoura/HunterToon/[...]
 [![Downloads](https://img.shields.io/github/downloads/lamineheskoura/HunterToon/total?style=for-the-badge&logo=github&color=blueviolet)](https://github.com/lamineheskoura/HunterToon/releases)
 [![Stars](https://img.shields.io/github/stars/lamineheskoura/HunterToon?color=yellow&label=النجوم&style=for-the-badge&logo=github)](https://github.com/lamineheskoura/HunterToon/stargazers)
 [![License](https://img.shields.io/badge/الترخيص-Proprietary-red?style=for-the-badge)](https://github.com/lamineheskoura/HunterToon)
@@ -85,8 +84,8 @@
 | 2 | [المميزات الكاملة](#-المميزات-الكاملة) |
 | 3 | [لقطات من التطبيق](#-لقطات-من-التطبيق) |
 | 4 | [كيفية التثبيت](#-كيفية-التثبيت) |
-| 5 | [نظام ارتقاء الصياد](#️-نظام-ارتقاء-الصياد) |
-| 6 | [خارطة الطريق](#️-خارطة-الطريق) |
+| 5 | [نظام ارتقاء الصياد](#-نظام-ارتقاء-الصياد) |
+| 6 | [خارطة الطريق](#-خارطة-الطريق) |
 | 7 | [التواصل والدعم](#-التواصل-والدعم) |
 
 ---
